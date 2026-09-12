@@ -1,0 +1,767 @@
+{
+  "generated_at": "2026-09-12T04:50:28.356776+00:00",
+  "total_repositories_analyzed": 34175,
+  "total_mega_repos_20k_plus": 1232,
+  "macro_distribution": {
+    "A": {
+      "count": 10387,
+      "percentage": 30.4,
+      "avg_stars": 3382.2,
+      "avg_merge_rate_pct": 82.9,
+      "avg_response_hours": 42.8,
+      "avg_response_formatted": "42.8h"
+    },
+    "B": {
+      "count": 5093,
+      "percentage": 14.9,
+      "avg_stars": 4043.1,
+      "avg_merge_rate_pct": 68.8,
+      "avg_response_hours": 85.65,
+      "avg_response_formatted": "3.6d"
+    },
+    "C": {
+      "count": 2363,
+      "percentage": 6.9,
+      "avg_stars": 2964.1,
+      "avg_merge_rate_pct": 67.1,
+      "avg_response_hours": 111.94,
+      "avg_response_formatted": "4.7d"
+    },
+    "D": {
+      "count": 14775,
+      "percentage": 43.2,
+      "avg_stars": 2630.8,
+      "avg_merge_rate_pct": 13.1,
+      "avg_response_hours": 34.66,
+      "avg_response_formatted": "34.7h"
+    },
+    "S": {
+      "count": 1557,
+      "percentage": 4.6,
+      "avg_stars": 2727.6,
+      "avg_merge_rate_pct": 87.4,
+      "avg_response_hours": 30.83,
+      "avg_response_formatted": "30.8h"
+    }
+  },
+  "star_20k_distribution": {
+    "A": {
+      "count": 388,
+      "percentage": 31.5,
+      "avg_merge_rate_pct": 68.5,
+      "avg_response_hours": 34.42,
+      "avg_response_formatted": "34.4h"
+    },
+    "B": {
+      "count": 265,
+      "percentage": 21.5,
+      "avg_merge_rate_pct": 53.3,
+      "avg_response_hours": 68.79,
+      "avg_response_formatted": "2.9d"
+    },
+    "C": {
+      "count": 67,
+      "percentage": 5.4,
+      "avg_merge_rate_pct": 42.8,
+      "avg_response_hours": 183.01,
+      "avg_response_formatted": "7.6d"
+    },
+    "D": {
+      "count": 463,
+      "percentage": 37.6,
+      "avg_merge_rate_pct": 10.0,
+      "avg_response_hours": 42.29,
+      "avg_response_formatted": "42.3h"
+    },
+    "S": {
+      "count": 49,
+      "percentage": 4.0,
+      "avg_merge_rate_pct": 67.5,
+      "avg_response_hours": 21.91,
+      "avg_response_formatted": "21.9h"
+    }
+  },
+  "ghost_towns_hall_of_shame": [
+    {
+      "repo": "public-apis/public-apis",
+      "stars": 452899,
+      "language": "Python",
+      "score": 7.2,
+      "merge_rate": 0,
+      "response_time": "Never / Unresponsive",
+      "maintainers": 0
+    },
+    {
+      "repo": "EbookFoundation/free-programming-books",
+      "stars": 393480,
+      "language": "Python",
+      "score": 8.0,
+      "merge_rate": 0,
+      "response_time": "Never / Unresponsive",
+      "maintainers": 0
+    },
+    {
+      "repo": "nilbuild/developer-roadmap",
+      "stars": 362893,
+      "language": "TypeScript",
+      "score": 7.2,
+      "merge_rate": 0,
+      "response_time": "Never / Unresponsive",
+      "maintainers": 0
+    },
+    {
+      "repo": "donnemartin/system-design-primer",
+      "stars": 359418,
+      "language": "Python",
+      "score": 17.6,
+      "merge_rate": 0,
+      "response_time": "Never / Unresponsive",
+      "maintainers": 0
+    },
+    {
+      "repo": "practical-tutorials/project-based-learning",
+      "stars": 276273,
+      "language": "Python",
+      "score": 7.2,
+      "merge_rate": 0,
+      "response_time": "Never / Unresponsive",
+      "maintainers": 0
+    },
+    {
+      "repo": "TheAlgorithms/Python",
+      "stars": 223217,
+      "language": "Python",
+      "score": 8.0,
+      "merge_rate": 0,
+      "response_time": "Never / Unresponsive",
+      "maintainers": 0
+    },
+    {
+      "repo": "vuejs/vue",
+      "stars": 210134,
+      "language": "TypeScript",
+      "score": 8.0,
+      "merge_rate": 0,
+      "response_time": "Never / Unresponsive",
+      "maintainers": 0
+    },
+    {
+      "repo": "mattpocock/skills",
+      "stars": 203890,
+      "language": "Shell",
+      "score": 29.9,
+      "merge_rate": 7.1,
+      "response_time": "21.1h",
+      "maintainers": 13
+    },
+    {
+      "repo": "trekhleb/javascript-algorithms",
+      "stars": 196341,
+      "language": "JavaScript",
+      "score": 8.0,
+      "merge_rate": 0,
+      "response_time": "Never / Unresponsive",
+      "maintainers": 0
+    },
+    {
+      "repo": "yt-dlp/yt-dlp",
+      "stars": 180490,
+      "language": "Python",
+      "score": 8.4,
+      "merge_rate": 0,
+      "response_time": "22.9d",
+      "maintainers": 0
+    },
+    {
+      "repo": "ollama/ollama",
+      "stars": 177729,
+      "language": "Go",
+      "score": 20.0,
+      "merge_rate": 0,
+      "response_time": "Never / Unresponsive",
+      "maintainers": 0
+    },
+    {
+      "repo": "521xueweihan/HelloGitHub",
+      "stars": 168627,
+      "language": "Python",
+      "score": 16.8,
+      "merge_rate": 0,
+      "response_time": "4.6h",
+      "maintainers": 3
+    },
+    {
+      "repo": "anthropics/skills",
+      "stars": 164588,
+      "language": "Python",
+      "score": 17.6,
+      "merge_rate": 0,
+      "response_time": "Never / Unresponsive",
+      "maintainers": 0
+    },
+    {
+      "repo": "AUTOMATIC1111/stable-diffusion-webui",
+      "stars": 164294,
+      "language": "Python",
+      "score": 8.0,
+      "merge_rate": 0,
+      "response_time": "Never / Unresponsive",
+      "maintainers": 0
+    },
+    {
+      "repo": "airbnb/javascript",
+      "stars": 148087,
+      "language": "JavaScript",
+      "score": 17.6,
+      "merge_rate": 0,
+      "response_time": "1m",
+      "maintainers": 1
+    },
+    {
+      "repo": "yangshun/tech-interview-handbook",
+      "stars": 141287,
+      "language": "TypeScript",
+      "score": 8.0,
+      "merge_rate": 0,
+      "response_time": "Never / Unresponsive",
+      "maintainers": 0
+    },
+    {
+      "repo": "ytdl-org/youtube-dl",
+      "stars": 140807,
+      "language": "Python",
+      "score": 8.0,
+      "merge_rate": 0,
+      "response_time": "Never / Unresponsive",
+      "maintainers": 0
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "stars": 139325,
+      "language": "Python",
+      "score": 8.0,
+      "merge_rate": 0,
+      "response_time": "Never / Unresponsive",
+      "maintainers": 0
+    },
+    {
+      "repo": "golang/go",
+      "stars": 135583,
+      "language": "Go",
+      "score": 19.6,
+      "merge_rate": 0,
+      "response_time": "1m",
+      "maintainers": 2
+    },
+    {
+      "repo": "excalidraw/excalidraw",
+      "stars": 128958,
+      "language": "TypeScript",
+      "score": 29.9,
+      "merge_rate": 0,
+      "response_time": "Never / Unresponsive",
+      "maintainers": 0
+    }
+  ],
+  "s_tier_champions": [
+    {
+      "repo": "open-webui/open-webui",
+      "stars": 147512,
+      "language": "Python",
+      "score": 82.7,
+      "merge_rate": 1.7,
+      "response_time": "1m",
+      "maintainers": 16
+    },
+    {
+      "repo": "supabase/supabase",
+      "stars": 107158,
+      "language": "TypeScript",
+      "score": 74.4,
+      "merge_rate": 62.6,
+      "response_time": "1m",
+      "maintainers": 11
+    },
+    {
+      "repo": "unionlabs/union",
+      "stars": 73867,
+      "language": "Rust",
+      "score": 70.5,
+      "merge_rate": 100.0,
+      "response_time": "22.5h",
+      "maintainers": 2
+    },
+    {
+      "repo": "OpenBB-finance/OpenBB",
+      "stars": 71092,
+      "language": "Python",
+      "score": 70.4,
+      "merge_rate": 58.3,
+      "response_time": "1m",
+      "maintainers": 4
+    },
+    {
+      "repo": "base/node",
+      "stars": 68467,
+      "language": "Shell",
+      "score": 71.0,
+      "merge_rate": 16.5,
+      "response_time": "1m",
+      "maintainers": 9
+    },
+    {
+      "repo": "cline/cline",
+      "stars": 65623,
+      "language": "TypeScript",
+      "score": 72.0,
+      "merge_rate": 49.4,
+      "response_time": "1m",
+      "maintainers": 21
+    },
+    {
+      "repo": "commaai/openpilot",
+      "stars": 63320,
+      "language": "Python",
+      "score": 70.6,
+      "merge_rate": 53.4,
+      "response_time": "1.0h",
+      "maintainers": 9
+    },
+    {
+      "repo": "upstash/context7",
+      "stars": 60116,
+      "language": "TypeScript",
+      "score": 81.4,
+      "merge_rate": 59.0,
+      "response_time": "6.2h",
+      "maintainers": 5
+    },
+    {
+      "repo": "ghostty-org/ghostty",
+      "stars": 59272,
+      "language": "Zig",
+      "score": 72.7,
+      "merge_rate": 100.0,
+      "response_time": "42m",
+      "maintainers": 1
+    },
+    {
+      "repo": "FlowiseAI/Flowise",
+      "stars": 54972,
+      "language": "TypeScript",
+      "score": 70.6,
+      "merge_rate": 56.2,
+      "response_time": "1m",
+      "maintainers": 1
+    },
+    {
+      "repo": "nlohmann/json",
+      "stars": 50278,
+      "language": "C++",
+      "score": 74.9,
+      "merge_rate": 97.3,
+      "response_time": "13.7h",
+      "maintainers": 2
+    },
+    {
+      "repo": "x64dbg/x64dbg",
+      "stars": 49042,
+      "language": "C++",
+      "score": 79.7,
+      "merge_rate": 63.2,
+      "response_time": "7.7h",
+      "maintainers": 5
+    },
+    {
+      "repo": "jgm/pandoc",
+      "stars": 45711,
+      "language": "Haskell",
+      "score": 73.4,
+      "merge_rate": 85.7,
+      "response_time": "2.5h",
+      "maintainers": 1
+    },
+    {
+      "repo": "babel/babel",
+      "stars": 43958,
+      "language": "TypeScript",
+      "score": 73.3,
+      "merge_rate": 55.0,
+      "response_time": "2m",
+      "maintainers": 6
+    },
+    {
+      "repo": "stablyai/orca",
+      "stars": 37284,
+      "language": "TypeScript",
+      "score": 70.7,
+      "merge_rate": 88.4,
+      "response_time": "5m",
+      "maintainers": 72
+    },
+    {
+      "repo": "keycloak/keycloak",
+      "stars": 35994,
+      "language": "Java",
+      "score": 75.5,
+      "merge_rate": 91.5,
+      "response_time": "3.4h",
+      "maintainers": 14
+    },
+    {
+      "repo": "gchq/CyberChef",
+      "stars": 35454,
+      "language": "JavaScript",
+      "score": 82.5,
+      "merge_rate": 80.0,
+      "response_time": "< 1 min (Instant)",
+      "maintainers": 0
+    },
+    {
+      "repo": "bumptech/glide",
+      "stars": 35027,
+      "language": "Java",
+      "score": 72.6,
+      "merge_rate": 77.8,
+      "response_time": "56m",
+      "maintainers": 1
+    },
+    {
+      "repo": "MetaCubeX/mihomo",
+      "stars": 32942,
+      "language": "Python",
+      "score": 73.0,
+      "merge_rate": 35.3,
+      "response_time": "1.4h",
+      "maintainers": 2
+    },
+    {
+      "repo": "langfuse/langfuse",
+      "stars": 32500,
+      "language": "TypeScript",
+      "score": 71.2,
+      "merge_rate": 76.9,
+      "response_time": "1.1h",
+      "maintainers": 8
+    }
+  ],
+  "language_ecosystems": [
+    {
+      "language": "Go",
+      "total_repos": 2953,
+      "ghost_repos": 840,
+      "s_tier_repos": 220,
+      "ghost_rate_pct": 28.4,
+      "avg_merge_rate_pct": 61.0,
+      "avg_response_hours": 55.74,
+      "avg_response_formatted": "2.3d"
+    },
+    {
+      "language": "Java",
+      "total_repos": 2291,
+      "ghost_repos": 700,
+      "s_tier_repos": 138,
+      "ghost_rate_pct": 30.6,
+      "avg_merge_rate_pct": 58.7,
+      "avg_response_hours": 51.72,
+      "avg_response_formatted": "2.2d"
+    },
+    {
+      "language": "Rust",
+      "total_repos": 2419,
+      "ghost_repos": 747,
+      "s_tier_repos": 165,
+      "ghost_rate_pct": 30.9,
+      "avg_merge_rate_pct": 60.8,
+      "avg_response_hours": 50.06,
+      "avg_response_formatted": "2.1d"
+    },
+    {
+      "language": "PHP",
+      "total_repos": 1564,
+      "ghost_repos": 566,
+      "s_tier_repos": 89,
+      "ghost_rate_pct": 36.2,
+      "avg_merge_rate_pct": 55.1,
+      "avg_response_hours": 55.85,
+      "avg_response_formatted": "2.3d"
+    },
+    {
+      "language": "TypeScript",
+      "total_repos": 2973,
+      "ghost_repos": 1094,
+      "s_tier_repos": 226,
+      "ghost_rate_pct": 36.8,
+      "avg_merge_rate_pct": 57.2,
+      "avg_response_hours": 40.22,
+      "avg_response_formatted": "40.2h"
+    },
+    {
+      "language": "C#",
+      "total_repos": 1625,
+      "ghost_repos": 633,
+      "s_tier_repos": 84,
+      "ghost_rate_pct": 39.0,
+      "avg_merge_rate_pct": 54.6,
+      "avg_response_hours": 54.46,
+      "avg_response_formatted": "2.3d"
+    },
+    {
+      "language": "Python",
+      "total_repos": 3769,
+      "ghost_repos": 1472,
+      "s_tier_repos": 166,
+      "ghost_rate_pct": 39.1,
+      "avg_merge_rate_pct": 53.9,
+      "avg_response_hours": 47.71,
+      "avg_response_formatted": "47.7h"
+    },
+    {
+      "language": "Kotlin",
+      "total_repos": 1527,
+      "ghost_repos": 605,
+      "s_tier_repos": 59,
+      "ghost_rate_pct": 39.6,
+      "avg_merge_rate_pct": 51.9,
+      "avg_response_hours": 55.02,
+      "avg_response_formatted": "2.3d"
+    },
+    {
+      "language": "JavaScript",
+      "total_repos": 2572,
+      "ghost_repos": 1043,
+      "s_tier_repos": 107,
+      "ghost_rate_pct": 40.6,
+      "avg_merge_rate_pct": 48.6,
+      "avg_response_hours": 69.69,
+      "avg_response_formatted": "2.9d"
+    },
+    {
+      "language": "Swift",
+      "total_repos": 1307,
+      "ghost_repos": 586,
+      "s_tier_repos": 28,
+      "ghost_rate_pct": 44.8,
+      "avg_merge_rate_pct": 48.1,
+      "avg_response_hours": 62.46,
+      "avg_response_formatted": "2.6d"
+    },
+    {
+      "language": "C++",
+      "total_repos": 2343,
+      "ghost_repos": 1060,
+      "s_tier_repos": 104,
+      "ghost_rate_pct": 45.2,
+      "avg_merge_rate_pct": 51.2,
+      "avg_response_hours": 39.43,
+      "avg_response_formatted": "39.4h"
+    },
+    {
+      "language": "Shell",
+      "total_repos": 1751,
+      "ghost_repos": 867,
+      "s_tier_repos": 69,
+      "ghost_rate_pct": 49.5,
+      "avg_merge_rate_pct": 44.4,
+      "avg_response_hours": 39.48,
+      "avg_response_formatted": "39.5h"
+    },
+    {
+      "language": "Dart",
+      "total_repos": 1119,
+      "ghost_repos": 589,
+      "s_tier_repos": 18,
+      "ghost_rate_pct": 52.6,
+      "avg_merge_rate_pct": 40.7,
+      "avg_response_hours": 48.37,
+      "avg_response_formatted": "2.0d"
+    },
+    {
+      "language": "Lua",
+      "total_repos": 1095,
+      "ghost_repos": 577,
+      "s_tier_repos": 18,
+      "ghost_rate_pct": 52.7,
+      "avg_merge_rate_pct": 42.9,
+      "avg_response_hours": 42.2,
+      "avg_response_formatted": "42.2h"
+    },
+    {
+      "language": "Julia",
+      "total_repos": 926,
+      "ghost_repos": 563,
+      "s_tier_repos": 2,
+      "ghost_rate_pct": 60.8,
+      "avg_merge_rate_pct": 36.7,
+      "avg_response_hours": 29.43,
+      "avg_response_formatted": "29.4h"
+    },
+    {
+      "language": "Scala",
+      "total_repos": 1016,
+      "ghost_repos": 650,
+      "s_tier_repos": 17,
+      "ghost_rate_pct": 64.0,
+      "avg_merge_rate_pct": 28.5,
+      "avg_response_hours": 120.98,
+      "avg_response_formatted": "5.0d"
+    },
+    {
+      "language": "Elixir",
+      "total_repos": 1025,
+      "ghost_repos": 718,
+      "s_tier_repos": 16,
+      "ghost_rate_pct": 70.0,
+      "avg_merge_rate_pct": 27.1,
+      "avg_response_hours": 29.06,
+      "avg_response_formatted": "29.1h"
+    },
+    {
+      "language": "Haskell",
+      "total_repos": 1014,
+      "ghost_repos": 823,
+      "s_tier_repos": 16,
+      "ghost_rate_pct": 81.2,
+      "avg_merge_rate_pct": 18.3,
+      "avg_response_hours": 15.2,
+      "avg_response_formatted": "15.2h"
+    }
+  ],
+  "solo_maintainer_risks": [
+    {
+      "repo": "public-apis/public-apis",
+      "stars": 452899,
+      "language": "Python",
+      "tier": "D",
+      "score": 7.2,
+      "merge_rate": 0,
+      "response_time": "Never / Unresponsive"
+    },
+    {
+      "repo": "EbookFoundation/free-programming-books",
+      "stars": 393480,
+      "language": "Python",
+      "tier": "D",
+      "score": 8.0,
+      "merge_rate": 0,
+      "response_time": "Never / Unresponsive"
+    },
+    {
+      "repo": "nilbuild/developer-roadmap",
+      "stars": 362893,
+      "language": "TypeScript",
+      "tier": "D",
+      "score": 7.2,
+      "merge_rate": 0,
+      "response_time": "Never / Unresponsive"
+    },
+    {
+      "repo": "donnemartin/system-design-primer",
+      "stars": 359418,
+      "language": "Python",
+      "tier": "D",
+      "score": 17.6,
+      "merge_rate": 0,
+      "response_time": "Never / Unresponsive"
+    },
+    {
+      "repo": "practical-tutorials/project-based-learning",
+      "stars": 276273,
+      "language": "Python",
+      "tier": "D",
+      "score": 7.2,
+      "merge_rate": 0,
+      "response_time": "Never / Unresponsive"
+    },
+    {
+      "repo": "react/react",
+      "stars": 247005,
+      "language": "JavaScript",
+      "tier": "A",
+      "score": 61.7,
+      "merge_rate": 33.3,
+      "response_time": "14m"
+    },
+    {
+      "repo": "TheAlgorithms/Python",
+      "stars": 223217,
+      "language": "Python",
+      "tier": "D",
+      "score": 8.0,
+      "merge_rate": 0,
+      "response_time": "Never / Unresponsive"
+    },
+    {
+      "repo": "vuejs/vue",
+      "stars": 210134,
+      "language": "TypeScript",
+      "tier": "D",
+      "score": 8.0,
+      "merge_rate": 0,
+      "response_time": "Never / Unresponsive"
+    },
+    {
+      "repo": "tensorflow/tensorflow",
+      "stars": 196890,
+      "language": "C++",
+      "tier": "A",
+      "score": 66.7,
+      "merge_rate": 80.0,
+      "response_time": "< 1 min (Instant)"
+    },
+    {
+      "repo": "trekhleb/javascript-algorithms",
+      "stars": 196341,
+      "language": "JavaScript",
+      "tier": "D",
+      "score": 8.0,
+      "merge_rate": 0,
+      "response_time": "Never / Unresponsive"
+    },
+    {
+      "repo": "yt-dlp/yt-dlp",
+      "stars": 180490,
+      "language": "Python",
+      "tier": "D",
+      "score": 8.4,
+      "merge_rate": 0,
+      "response_time": "22.9d"
+    },
+    {
+      "repo": "avelino/awesome-go",
+      "stars": 179956,
+      "language": "Go",
+      "tier": "A",
+      "score": 64.2,
+      "merge_rate": 100.0,
+      "response_time": "< 1 min (Instant)"
+    },
+    {
+      "repo": "ollama/ollama",
+      "stars": 177729,
+      "language": "Go",
+      "tier": "D",
+      "score": 20.0,
+      "merge_rate": 0,
+      "response_time": "Never / Unresponsive"
+    },
+    {
+      "repo": "anthropics/skills",
+      "stars": 164588,
+      "language": "Python",
+      "tier": "D",
+      "score": 17.6,
+      "merge_rate": 0,
+      "response_time": "Never / Unresponsive"
+    },
+    {
+      "repo": "AUTOMATIC1111/stable-diffusion-webui",
+      "stars": 164294,
+      "language": "Python",
+      "tier": "D",
+      "score": 8.0,
+      "merge_rate": 0,
+      "response_time": "Never / Unresponsive"
+    }
+  ]
+}
