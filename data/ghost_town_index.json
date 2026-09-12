@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T04:50:28.356776+00:00",
+  "generated_at": "2026-09-12T05:26:06.535864+00:00",
   "total_repositories_analyzed": 34175,
   "total_mega_repos_20k_plus": 1232,
   "macro_distribution": {
@@ -83,67 +83,14 @@
   },
   "ghost_towns_hall_of_shame": [
     {
-      "repo": "public-apis/public-apis",
-      "stars": 452899,
-      "language": "Python",
-      "score": 7.2,
-      "merge_rate": 0,
-      "response_time": "Never / Unresponsive",
-      "maintainers": 0
-    },
-    {
-      "repo": "EbookFoundation/free-programming-books",
-      "stars": 393480,
-      "language": "Python",
-      "score": 8.0,
-      "merge_rate": 0,
-      "response_time": "Never / Unresponsive",
-      "maintainers": 0
-    },
-    {
-      "repo": "nilbuild/developer-roadmap",
-      "stars": 362893,
-      "language": "TypeScript",
-      "score": 7.2,
-      "merge_rate": 0,
-      "response_time": "Never / Unresponsive",
-      "maintainers": 0
-    },
-    {
-      "repo": "donnemartin/system-design-primer",
-      "stars": 359418,
-      "language": "Python",
-      "score": 17.6,
-      "merge_rate": 0,
-      "response_time": "Never / Unresponsive",
-      "maintainers": 0
-    },
-    {
-      "repo": "practical-tutorials/project-based-learning",
-      "stars": 276273,
-      "language": "Python",
-      "score": 7.2,
-      "merge_rate": 0,
-      "response_time": "Never / Unresponsive",
-      "maintainers": 0
-    },
-    {
-      "repo": "TheAlgorithms/Python",
-      "stars": 223217,
-      "language": "Python",
-      "score": 8.0,
-      "merge_rate": 0,
-      "response_time": "Never / Unresponsive",
-      "maintainers": 0
-    },
-    {
       "repo": "vuejs/vue",
       "stars": 210134,
       "language": "TypeScript",
       "score": 8.0,
       "merge_rate": 0,
-      "response_time": "Never / Unresponsive",
-      "maintainers": 0
+      "response_time": "Unresponsive / No Comments",
+      "maintainers": 0,
+      "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core"
     },
     {
       "repo": "mattpocock/skills",
@@ -152,16 +99,8 @@
       "score": 29.9,
       "merge_rate": 7.1,
       "response_time": "21.1h",
-      "maintainers": 13
-    },
-    {
-      "repo": "trekhleb/javascript-algorithms",
-      "stars": 196341,
-      "language": "JavaScript",
-      "score": 8.0,
-      "merge_rate": 0,
-      "response_time": "Never / Unresponsive",
-      "maintainers": 0
+      "maintainers": 13,
+      "description": "Skills for Real Engineers. Straight from my .agents directory."
     },
     {
       "repo": "yt-dlp/yt-dlp",
@@ -170,7 +109,8 @@
       "score": 8.4,
       "merge_rate": 0,
       "response_time": "22.9d",
-      "maintainers": 0
+      "maintainers": 0,
+      "description": "A feature-rich command-line audio/video downloader"
     },
     {
       "repo": "ollama/ollama",
@@ -178,17 +118,9 @@
       "language": "Go",
       "score": 20.0,
       "merge_rate": 0,
-      "response_time": "Never / Unresponsive",
-      "maintainers": 0
-    },
-    {
-      "repo": "521xueweihan/HelloGitHub",
-      "stars": 168627,
-      "language": "Python",
-      "score": 16.8,
-      "merge_rate": 0,
-      "response_time": "4.6h",
-      "maintainers": 3
+      "response_time": "Unresponsive / No Comments",
+      "maintainers": 0,
+      "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models."
     },
     {
       "repo": "anthropics/skills",
@@ -196,8 +128,9 @@
       "language": "Python",
       "score": 17.6,
       "merge_rate": 0,
-      "response_time": "Never / Unresponsive",
-      "maintainers": 0
+      "response_time": "Unresponsive / No Comments",
+      "maintainers": 0,
+      "description": "Public repository for Agent Skills"
     },
     {
       "repo": "AUTOMATIC1111/stable-diffusion-webui",
@@ -205,8 +138,9 @@
       "language": "Python",
       "score": 8.0,
       "merge_rate": 0,
-      "response_time": "Never / Unresponsive",
-      "maintainers": 0
+      "response_time": "Unresponsive / No Comments",
+      "maintainers": 0,
+      "description": "Stable Diffusion web UI"
     },
     {
       "repo": "airbnb/javascript",
@@ -215,16 +149,8 @@
       "score": 17.6,
       "merge_rate": 0,
       "response_time": "1m",
-      "maintainers": 1
-    },
-    {
-      "repo": "yangshun/tech-interview-handbook",
-      "stars": 141287,
-      "language": "TypeScript",
-      "score": 8.0,
-      "merge_rate": 0,
-      "response_time": "Never / Unresponsive",
-      "maintainers": 0
+      "maintainers": 1,
+      "description": "JavaScript Style Guide"
     },
     {
       "repo": "ytdl-org/youtube-dl",
@@ -232,8 +158,9 @@
       "language": "Python",
       "score": 8.0,
       "merge_rate": 0,
-      "response_time": "Never / Unresponsive",
-      "maintainers": 0
+      "response_time": "Unresponsive / No Comments",
+      "maintainers": 0,
+      "description": "Command-line program to download videos from YouTube.com and other video sites"
     },
     {
       "repo": "anthropics/claude-code",
@@ -241,8 +168,9 @@
       "language": "Python",
       "score": 8.0,
       "merge_rate": 0,
-      "response_time": "Never / Unresponsive",
-      "maintainers": 0
+      "response_time": "Unresponsive / No Comments",
+      "maintainers": 0,
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
     },
     {
       "repo": "golang/go",
@@ -251,7 +179,8 @@
       "score": 19.6,
       "merge_rate": 0,
       "response_time": "1m",
-      "maintainers": 2
+      "maintainers": 2,
+      "description": "The Go programming language"
     },
     {
       "repo": "excalidraw/excalidraw",
@@ -259,20 +188,102 @@
       "language": "TypeScript",
       "score": 29.9,
       "merge_rate": 0,
-      "response_time": "Never / Unresponsive",
-      "maintainers": 0
+      "response_time": "Unresponsive / No Comments",
+      "maintainers": 0,
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams"
+    },
+    {
+      "repo": "react/react-native",
+      "stars": 126285,
+      "language": "C++",
+      "score": 8.0,
+      "merge_rate": 0,
+      "response_time": "Unresponsive / No Comments",
+      "maintainers": 0,
+      "description": "A framework for building native applications using React"
+    },
+    {
+      "repo": "Comfy-Org/ComfyUI",
+      "stars": 123756,
+      "language": "Python",
+      "score": 7.2,
+      "merge_rate": 0,
+      "response_time": "Unresponsive / No Comments",
+      "maintainers": 0,
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface."
+    },
+    {
+      "repo": "shadcn-ui/ui",
+      "stars": 120005,
+      "language": "TypeScript",
+      "score": 7.2,
+      "merge_rate": 0,
+      "response_time": "Unresponsive / No Comments",
+      "maintainers": 0,
+      "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code."
+    },
+    {
+      "repo": "godotengine/godot",
+      "stars": 115237,
+      "language": "C++",
+      "score": 18.0,
+      "merge_rate": 0,
+      "response_time": "Unresponsive / No Comments",
+      "maintainers": 0,
+      "description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine"
+    },
+    {
+      "repo": "d3/d3",
+      "stars": 113298,
+      "language": "Shell",
+      "score": 15.5,
+      "merge_rate": 0,
+      "response_time": "5.1h",
+      "maintainers": 2,
+      "description": "Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:"
+    },
+    {
+      "repo": "microsoft/TypeScript",
+      "stars": 109976,
+      "language": "TypeScript",
+      "score": 19.3,
+      "merge_rate": 0,
+      "response_time": "1m",
+      "maintainers": 2,
+      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output."
+    },
+    {
+      "repo": "immich-app/immich",
+      "stars": 109700,
+      "language": "TypeScript",
+      "score": 29.9,
+      "merge_rate": 18.2,
+      "response_time": "1m",
+      "maintainers": 5,
+      "description": "High performance self-hosted photo and video management solution."
+    },
+    {
+      "repo": "axios/axios",
+      "stars": 109159,
+      "language": "JavaScript",
+      "score": 7.2,
+      "merge_rate": 72.7,
+      "response_time": "5m",
+      "maintainers": 4,
+      "description": "Promise based HTTP client for the browser and node.js"
+    },
+    {
+      "repo": "browser-use/browser-use",
+      "stars": 107027,
+      "language": "Python",
+      "score": 29.9,
+      "merge_rate": 2.3,
+      "response_time": "1m",
+      "maintainers": 5,
+      "description": "\ud83c\udf10 Make websites accessible for AI agents. Automate tasks online with ease."
     }
   ],
   "s_tier_champions": [
-    {
-      "repo": "open-webui/open-webui",
-      "stars": 147512,
-      "language": "Python",
-      "score": 82.7,
-      "merge_rate": 1.7,
-      "response_time": "1m",
-      "maintainers": 16
-    },
     {
       "repo": "supabase/supabase",
       "stars": 107158,
@@ -280,16 +291,8 @@
       "score": 74.4,
       "merge_rate": 62.6,
       "response_time": "1m",
-      "maintainers": 11
-    },
-    {
-      "repo": "unionlabs/union",
-      "stars": 73867,
-      "language": "Rust",
-      "score": 70.5,
-      "merge_rate": 100.0,
-      "response_time": "22.5h",
-      "maintainers": 2
+      "maintainers": 11,
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications."
     },
     {
       "repo": "OpenBB-finance/OpenBB",
@@ -298,16 +301,8 @@
       "score": 70.4,
       "merge_rate": 58.3,
       "response_time": "1m",
-      "maintainers": 4
-    },
-    {
-      "repo": "base/node",
-      "stars": 68467,
-      "language": "Shell",
-      "score": 71.0,
-      "merge_rate": 16.5,
-      "response_time": "1m",
-      "maintainers": 9
+      "maintainers": 4,
+      "description": "Open Data Platform for analysts, quants and AI agents."
     },
     {
       "repo": "cline/cline",
@@ -316,7 +311,8 @@
       "score": 72.0,
       "merge_rate": 49.4,
       "response_time": "1m",
-      "maintainers": 21
+      "maintainers": 21,
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant."
     },
     {
       "repo": "commaai/openpilot",
@@ -325,7 +321,8 @@
       "score": 70.6,
       "merge_rate": 53.4,
       "response_time": "1.0h",
-      "maintainers": 9
+      "maintainers": 9,
+      "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars."
     },
     {
       "repo": "upstash/context7",
@@ -334,34 +331,8 @@
       "score": 81.4,
       "merge_rate": 59.0,
       "response_time": "6.2h",
-      "maintainers": 5
-    },
-    {
-      "repo": "ghostty-org/ghostty",
-      "stars": 59272,
-      "language": "Zig",
-      "score": 72.7,
-      "merge_rate": 100.0,
-      "response_time": "42m",
-      "maintainers": 1
-    },
-    {
-      "repo": "FlowiseAI/Flowise",
-      "stars": 54972,
-      "language": "TypeScript",
-      "score": 70.6,
-      "merge_rate": 56.2,
-      "response_time": "1m",
-      "maintainers": 1
-    },
-    {
-      "repo": "nlohmann/json",
-      "stars": 50278,
-      "language": "C++",
-      "score": 74.9,
-      "merge_rate": 97.3,
-      "response_time": "13.7h",
-      "maintainers": 2
+      "maintainers": 5,
+      "description": "Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors"
     },
     {
       "repo": "x64dbg/x64dbg",
@@ -370,16 +341,8 @@
       "score": 79.7,
       "merge_rate": 63.2,
       "response_time": "7.7h",
-      "maintainers": 5
-    },
-    {
-      "repo": "jgm/pandoc",
-      "stars": 45711,
-      "language": "Haskell",
-      "score": 73.4,
-      "merge_rate": 85.7,
-      "response_time": "2.5h",
-      "maintainers": 1
+      "maintainers": 5,
+      "description": "An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis."
     },
     {
       "repo": "babel/babel",
@@ -388,7 +351,8 @@
       "score": 73.3,
       "merge_rate": 55.0,
       "response_time": "2m",
-      "maintainers": 6
+      "maintainers": 6,
+      "description": "\ud83d\udc20 Babel is a compiler for writing next generation JavaScript."
     },
     {
       "repo": "stablyai/orca",
@@ -397,34 +361,8 @@
       "score": 70.7,
       "merge_rate": 88.4,
       "response_time": "5m",
-      "maintainers": 72
-    },
-    {
-      "repo": "keycloak/keycloak",
-      "stars": 35994,
-      "language": "Java",
-      "score": 75.5,
-      "merge_rate": 91.5,
-      "response_time": "3.4h",
-      "maintainers": 14
-    },
-    {
-      "repo": "gchq/CyberChef",
-      "stars": 35454,
-      "language": "JavaScript",
-      "score": 82.5,
-      "merge_rate": 80.0,
-      "response_time": "< 1 min (Instant)",
-      "maintainers": 0
-    },
-    {
-      "repo": "bumptech/glide",
-      "stars": 35027,
-      "language": "Java",
-      "score": 72.6,
-      "merge_rate": 77.8,
-      "response_time": "56m",
-      "maintainers": 1
+      "maintainers": 72,
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS."
     },
     {
       "repo": "MetaCubeX/mihomo",
@@ -433,7 +371,8 @@
       "score": 73.0,
       "merge_rate": 35.3,
       "response_time": "1.4h",
-      "maintainers": 2
+      "maintainers": 2,
+      "description": "A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API."
     },
     {
       "repo": "langfuse/langfuse",
@@ -442,7 +381,108 @@
       "score": 71.2,
       "merge_rate": 76.9,
       "response_time": "1.1h",
-      "maintainers": 8
+      "maintainers": 8,
+      "description": "\ud83e\udea2 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. \ud83c\udf4aYC W23"
+    },
+    {
+      "repo": "GitbookIO/gitbook",
+      "stars": 28969,
+      "language": "TypeScript",
+      "score": 71.6,
+      "merge_rate": 75.0,
+      "response_time": "8m",
+      "maintainers": 9,
+      "description": "The open source frontend for GitBook doc sites"
+    },
+    {
+      "repo": "chroma-core/chroma",
+      "stars": 28889,
+      "language": "Rust",
+      "score": 70.5,
+      "merge_rate": 71.4,
+      "response_time": "17m",
+      "maintainers": 11,
+      "description": "Search infrastructure for AI"
+    },
+    {
+      "repo": "Budibase/budibase",
+      "stars": 28183,
+      "language": "TypeScript",
+      "score": 74.5,
+      "merge_rate": 78.6,
+      "response_time": "18m",
+      "maintainers": 2,
+      "description": "AI agents, automations and apps that run your operations. Model agnostic."
+    },
+    {
+      "repo": "firefly-iii/firefly-iii",
+      "stars": 24196,
+      "language": "PHP",
+      "score": 70.2,
+      "merge_rate": 78.0,
+      "response_time": "1m",
+      "maintainers": 5,
+      "description": "Firefly III: a personal finances manager"
+    },
+    {
+      "repo": "osquery/osquery",
+      "stars": 23414,
+      "language": "C++",
+      "score": 71.2,
+      "merge_rate": 80.6,
+      "response_time": "1m",
+      "maintainers": 6,
+      "description": "SQL powered operating system instrumentation, monitoring, and analytics."
+    },
+    {
+      "repo": "verl-project/verl",
+      "stars": 22790,
+      "language": "Python",
+      "score": 75.8,
+      "merge_rate": 48.6,
+      "response_time": "1m",
+      "maintainers": 5,
+      "description": "verl/HybridFlow: A Flexible and Efficient RL Post-Training Framework"
+    },
+    {
+      "repo": "gitbutlerapp/gitbutler",
+      "stars": 21405,
+      "language": "Rust",
+      "score": 71.5,
+      "merge_rate": 85.1,
+      "response_time": "1.1h",
+      "maintainers": 10,
+      "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte"
+    },
+    {
+      "repo": "spaceship-prompt/spaceship-prompt",
+      "stars": 20546,
+      "language": "Shell",
+      "score": 70.6,
+      "merge_rate": 83.3,
+      "response_time": "1m",
+      "maintainers": 3,
+      "description": "\ud83d\ude80\u2728 Minimalistic, powerful and extremely customizable Zsh prompt"
+    },
+    {
+      "repo": "nats-io/nats-server",
+      "stars": 20393,
+      "language": "Go",
+      "score": 71.3,
+      "merge_rate": 80.8,
+      "response_time": "2.0h",
+      "maintainers": 7,
+      "description": "High-Performance server for NATS.io, the cloud and edge native messaging system."
+    },
+    {
+      "repo": "livekit/livekit",
+      "stars": 20100,
+      "language": "Go",
+      "score": 72.4,
+      "merge_rate": 85.7,
+      "response_time": "1m",
+      "maintainers": 6,
+      "description": "End-to-end realtime stack for connecting humans and AI"
     }
   ],
   "language_ecosystems": [
@@ -629,51 +669,6 @@
   ],
   "solo_maintainer_risks": [
     {
-      "repo": "public-apis/public-apis",
-      "stars": 452899,
-      "language": "Python",
-      "tier": "D",
-      "score": 7.2,
-      "merge_rate": 0,
-      "response_time": "Never / Unresponsive"
-    },
-    {
-      "repo": "EbookFoundation/free-programming-books",
-      "stars": 393480,
-      "language": "Python",
-      "tier": "D",
-      "score": 8.0,
-      "merge_rate": 0,
-      "response_time": "Never / Unresponsive"
-    },
-    {
-      "repo": "nilbuild/developer-roadmap",
-      "stars": 362893,
-      "language": "TypeScript",
-      "tier": "D",
-      "score": 7.2,
-      "merge_rate": 0,
-      "response_time": "Never / Unresponsive"
-    },
-    {
-      "repo": "donnemartin/system-design-primer",
-      "stars": 359418,
-      "language": "Python",
-      "tier": "D",
-      "score": 17.6,
-      "merge_rate": 0,
-      "response_time": "Never / Unresponsive"
-    },
-    {
-      "repo": "practical-tutorials/project-based-learning",
-      "stars": 276273,
-      "language": "Python",
-      "tier": "D",
-      "score": 7.2,
-      "merge_rate": 0,
-      "response_time": "Never / Unresponsive"
-    },
-    {
       "repo": "react/react",
       "stars": 247005,
       "language": "JavaScript",
@@ -683,22 +678,13 @@
       "response_time": "14m"
     },
     {
-      "repo": "TheAlgorithms/Python",
-      "stars": 223217,
-      "language": "Python",
-      "tier": "D",
-      "score": 8.0,
-      "merge_rate": 0,
-      "response_time": "Never / Unresponsive"
-    },
-    {
       "repo": "vuejs/vue",
       "stars": 210134,
       "language": "TypeScript",
       "tier": "D",
       "score": 8.0,
       "merge_rate": 0,
-      "response_time": "Never / Unresponsive"
+      "response_time": "Unresponsive / No Comments"
     },
     {
       "repo": "tensorflow/tensorflow",
@@ -710,15 +696,6 @@
       "response_time": "< 1 min (Instant)"
     },
     {
-      "repo": "trekhleb/javascript-algorithms",
-      "stars": 196341,
-      "language": "JavaScript",
-      "tier": "D",
-      "score": 8.0,
-      "merge_rate": 0,
-      "response_time": "Never / Unresponsive"
-    },
-    {
       "repo": "yt-dlp/yt-dlp",
       "stars": 180490,
       "language": "Python",
@@ -728,22 +705,13 @@
       "response_time": "22.9d"
     },
     {
-      "repo": "avelino/awesome-go",
-      "stars": 179956,
-      "language": "Go",
-      "tier": "A",
-      "score": 64.2,
-      "merge_rate": 100.0,
-      "response_time": "< 1 min (Instant)"
-    },
-    {
       "repo": "ollama/ollama",
       "stars": 177729,
       "language": "Go",
       "tier": "D",
       "score": 20.0,
       "merge_rate": 0,
-      "response_time": "Never / Unresponsive"
+      "response_time": "Unresponsive / No Comments"
     },
     {
       "repo": "anthropics/skills",
@@ -752,7 +720,7 @@
       "tier": "D",
       "score": 17.6,
       "merge_rate": 0,
-      "response_time": "Never / Unresponsive"
+      "response_time": "Unresponsive / No Comments"
     },
     {
       "repo": "AUTOMATIC1111/stable-diffusion-webui",
@@ -761,7 +729,79 @@
       "tier": "D",
       "score": 8.0,
       "merge_rate": 0,
-      "response_time": "Never / Unresponsive"
+      "response_time": "Unresponsive / No Comments"
+    },
+    {
+      "repo": "firecrawl/firecrawl",
+      "stars": 160841,
+      "language": "TypeScript",
+      "tier": "C",
+      "score": 39.4,
+      "merge_rate": 50.0,
+      "response_time": "5m"
+    },
+    {
+      "repo": "airbnb/javascript",
+      "stars": 148087,
+      "language": "JavaScript",
+      "tier": "D",
+      "score": 17.6,
+      "merge_rate": 0,
+      "response_time": "1m"
+    },
+    {
+      "repo": "ytdl-org/youtube-dl",
+      "stars": 140807,
+      "language": "Python",
+      "tier": "D",
+      "score": 8.0,
+      "merge_rate": 0,
+      "response_time": "Unresponsive / No Comments"
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "stars": 139325,
+      "language": "Python",
+      "tier": "D",
+      "score": 8.0,
+      "merge_rate": 0,
+      "response_time": "Unresponsive / No Comments"
+    },
+    {
+      "repo": "excalidraw/excalidraw",
+      "stars": 128958,
+      "language": "TypeScript",
+      "tier": "D",
+      "score": 29.9,
+      "merge_rate": 0,
+      "response_time": "Unresponsive / No Comments"
+    },
+    {
+      "repo": "Chalarangelo/30-seconds-of-code",
+      "stars": 128514,
+      "language": "JavaScript",
+      "tier": "B",
+      "score": 47.5,
+      "merge_rate": 57.6,
+      "response_time": "4.9d"
+    },
+    {
+      "repo": "react/react-native",
+      "stars": 126285,
+      "language": "C++",
+      "tier": "D",
+      "score": 8.0,
+      "merge_rate": 0,
+      "response_time": "Unresponsive / No Comments"
+    },
+    {
+      "repo": "Comfy-Org/ComfyUI",
+      "stars": 123756,
+      "language": "Python",
+      "tier": "D",
+      "score": 7.2,
+      "merge_rate": 0,
+      "response_time": "Unresponsive / No Comments"
     }
   ]
 }
